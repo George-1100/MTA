@@ -1,4 +1,7 @@
 # Malware traffic analysis in the origin logger(originLogger is key logger from Agent tesla family)
+# Description
+The victim Download keylogger(originlogger) from some malicious website unknowingly. The keylooger take victim's email client client user name and passwords
+and web login credencials such us amazon
 
 1. Run a windows on VMware
 2. Downd and install wireshark
